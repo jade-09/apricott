@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "sreesql.mysql.database.azure.com";
+$username = "sreenivas";
+$password = "jade@123";
 $db = "apricot-store";
 
 // Create connection
